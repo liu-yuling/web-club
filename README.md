@@ -23,5 +23,5 @@
 
 > bootstrap :配合css完成响应式布局
 
-> fonts:网络自字体运用
+> fonts:网络自字运用
 
